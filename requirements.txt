@@ -13,7 +13,7 @@ google-cloud-kms==1.1.0
 googleapis-common-protos[grpc]==1.6.0
 grpc-google-iam-v1==0.11.4
 grpcio==1.53.2
-idna==2.8
+idna==3.7
 itsdangerous==1.1.0
 jinja2==3.1.4
 markupsafe==1.1.1
